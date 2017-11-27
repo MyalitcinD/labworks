@@ -5,7 +5,7 @@ int main()
 {
 	unsigned int n;
 	unsigned long factorial=1;
-
+	\\ commit number 1
 	cout << "Enter positive number: ";
 	cin >> n;
 	for (int i = 1; i <= n; i++)
